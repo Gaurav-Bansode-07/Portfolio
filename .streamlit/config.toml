@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#1e90ff"         # Bright blue accent color
+backgroundColor = "#0d1b2a"     # Very dark blue background
+secondaryBackgroundColor = "#1f2a38"  # Slightly lighter dark blue for secondary elements
+textColor = "#e0e0e0"           # Light gray text for good contrast
